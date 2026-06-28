@@ -281,7 +281,7 @@ SQL queries were executed directly on the **PostgreSQL database** after importin
 
 An interactive **5-page Power BI dashboard** was developed to enable self-service analytics for business stakeholders. The dashboard leverages **KPI cards, slicers, drill-down visuals, and dynamic charts** for real-time exploration.
 
-### Dashboard 1 — Executive Overview
+### Dashboard  — Executive Overview
 
 > High-level KPIs, monthly revenue trends, category performance, top states, and delivery status distribution.
 
@@ -292,40 +292,6 @@ An interactive **5-page Power BI dashboard** was developed to enable self-servic
 <p align="center"><em>Figure 1: Executive Overview — Total Revenue INR 1.12B · 15K Orders · 7K Customers · Balanced Category & Regional Performance</em></p>
 
 ---
-
-### Dashboard 2 — Sales & Product Analytics
-
-> Product-level revenue analysis, category comparisons, and sales trend deep-dives.
-
-<!-- Insert Screenshot -->
-<p align="center"><em>Screenshot placeholder — add <code>src/dashboard-sales-product.png</code></em></p>
-
----
-
-### Dashboard 3 — Customer Analytics
-
-> Customer segmentation, feedback sentiment, review ratings, and purchase behaviour.
-
-<!-- Insert Screenshot -->
-<p align="center"><em>Screenshot placeholder — add <code>src/dashboard-customer.png</code></em></p>
-
----
-
-### Dashboard 4 — Regional Analytics
-
-> State-wise revenue maps, regional return rates, and geographic performance comparisons.
-
-<!-- Insert Screenshot -->
-<p align="center"><em>Screenshot placeholder — add <code>src/dashboard-regional.png</code></em></p>
-
----
-
-### Dashboard 5 — Business Insights & Recommendations
-
-> Curated insights, KPI summaries, and strategic recommendation highlights.
-
-<!-- Insert Screenshot -->
-<p align="center"><em>Screenshot placeholder — add <code>src/dashboard-insights.png</code></em></p>
 
 <details>
 <summary><strong>Dashboard Features</strong></summary>
